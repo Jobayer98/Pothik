@@ -7,12 +7,12 @@
 }
 
 h1,
-h2,
 span {
   font-family: "Jockey One", sans-serif;
 }
 
-span {
+span,
+.title {
   letter-spacing: 4px;
 }
 

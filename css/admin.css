@@ -55,6 +55,6 @@ button.accordion:after {
   margin-left: 5px;
 }
 
-td:nth-child(2n) {
+#first_table td:nth-child(2n) {
   background-color: #eee;
 }
